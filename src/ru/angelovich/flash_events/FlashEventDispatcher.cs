@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ru.angelovich.flash_event
+namespace ru.angelovich.flash_events
 {
     public class FlashEventDispatcher : IFlashEventDispatcher
     {

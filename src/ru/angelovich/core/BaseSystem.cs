@@ -1,5 +1,5 @@
 ﻿using System.Collections.Generic;
-using ru.angelovich.flash_event;
+using ru.angelovich.flash_events;
 
 namespace ru.angelovich.core
 {

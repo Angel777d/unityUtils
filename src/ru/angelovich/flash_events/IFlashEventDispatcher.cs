@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ru.angelovich.flash_event
+namespace ru.angelovich.flash_events
 {
     public interface IFlashEventDispatcher
     {
